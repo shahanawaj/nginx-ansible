@@ -1,9 +1,9 @@
-### Ansible course-ending project
+## Ansible course-ending project
 
 
 In this assignment, Ansible role is developed to install the nginx server on EC2 instances and the docker container.
 
-## Pre-Req:
+### Pre-Req:
 Install Ansible on the Master node.
 
 Edit the host file to add the public IP of the host machines where you want to install nginx.
@@ -11,7 +11,7 @@ Edit the host file to add the public IP of the host machines where you want to i
 Keep a pem file on the host machine and update the path of pem file in the host file
 
 
-## Install Nginx
+### Install Nginx
 
 Clone this repo:
 
